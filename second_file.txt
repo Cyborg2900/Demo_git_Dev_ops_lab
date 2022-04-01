@@ -1,0 +1,2 @@
+this is a text file in branch name second_branch .
+just a demo text file.
